@@ -19,7 +19,7 @@ body {
 }
 
 header {
-  color: #f08000;
+  color: #fdde30;
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
@@ -49,7 +49,7 @@ header {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: #f08000;
+  color: #fdde30;
   text-decoration: none;
   cursor: pointer;
   font-weight: bold;
